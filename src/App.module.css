@@ -1,0 +1,12 @@
+body {
+    background-color: #e1e5ea;
+    /* background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-XSe7OgKqpP5EAlheMPrILNC4Xwnt_8O_QQ&usqp=CAU");
+    background: no-repeat; */
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
